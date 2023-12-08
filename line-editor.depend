@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699030897 source:h:\iti\c-language\studing\line-editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
+1698998496 source:d:\github\c-projects\line-editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+
